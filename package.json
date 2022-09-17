@@ -1,0 +1,23 @@
+{
+  "name": "bw-test-lib",
+  "version": "1.0.0",
+  "description": "test package",
+  "private": false,
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "files": ["index.js"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdwain/bw-test-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdwain/bw-test-lib/issues"
+  },
+  "homepage": "https://github.com/bdwain/bw-test-lib#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
